@@ -6,7 +6,7 @@ WindFlow is an alternative to **Claude Code, Kimi Code, etc...** It provides fre
 
 # Pricing Plans
 
-Free $0/mo
+Free $0/mo:
 - Light quota to try out WindFlow Code
 - Limited model availability
 
