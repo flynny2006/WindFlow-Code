@@ -30,3 +30,5 @@ You send "Hey!" the weekly pool starts from now on and the 5 hour pool too. Once
 3. Already consumed usage can usually be **not** refunded. It also depends on which AI model you used.
 4. Using virtual or prepaid cards is strightly prohibited. Once we detect it we **permanently suspend** your account and your IP address from our entire system, which means that you also can't access future WindFlow tools.
 5. Paying for another user is strightly prohibited. You can only pay for **yourself** or your **team**. If your paying for a personal subscription you can't give the account to someone else. **If your account got compromised, please contact the support as fast as you can.**
+6. When connecting any partner services, Github, or anything to WindFlow Code, you have to follow their TOS. Breaking them may lead to a **temporarily account suspendation**.
+7. Reselling plans, usage, or abuse methods is strightly prohibited and will also result in **critical consequences** and a **permanent account & IP address suspendation**.
